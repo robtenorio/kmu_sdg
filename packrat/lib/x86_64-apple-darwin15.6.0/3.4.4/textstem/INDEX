@@ -1,0 +1,9 @@
+lemmatize_strings       Lemmatize a Vector of Strings
+lemmatize_words         Lemmatize a Vector of Words
+make_lemma_dictionary   Generate a Lemma Dictionary
+presidential_debates_2012
+                        2012 U.S. Presidential Debates
+sam_i_am                Sam I Am Text
+stem_strings            Stem a Vector of Strings
+stem_words              Stem a Vector of Words
+textstem                Tools for Stemming and Lemmatizing Text

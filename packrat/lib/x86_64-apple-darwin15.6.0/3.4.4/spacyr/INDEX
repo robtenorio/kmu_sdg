@@ -1,0 +1,15 @@
+data_char_paragraph     A short paragraph of text for testing
+data_char_sentences     Sample short documents for testing
+entity_extract          Extract or consolidate entities from parsed
+                        documents
+spacy_download_langmodel
+                        Install a language model in a conda or virtual
+                        environment
+spacy_finalize          Finalize spaCy
+spacy_initialize        Initialize spaCy
+spacy_install           Install spaCy in conda or virtualenv
+                        environment
+spacy_parse             Parse a text using spaCy
+spacy_uninstall         Unnstall spaCy conda environment
+spacy_upgrade           Install spaCy in conda environment
+spacyr-package          An R wrapper to the spaCy NLP system

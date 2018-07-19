@@ -1,0 +1,161 @@
+goal,sdg_title,theme,title
+Goal 1,End poverty in all its forms everywhere,Theme 78,Social Protection Delivery Systems
+Goal 1,End poverty in all its forms everywhere,Theme 75,Social Protection
+Goal 1,End poverty in all its forms everywhere,Theme 126,Rural Non-farm Income Generation
+Goal 1,End poverty in all its forms everywhere,Theme 129,Land Administration and Management
+Goal 1,End poverty in all its forms everywhere,Theme 131,Land Policy and Tenure
+Goal 1,End poverty in all its forms everywhere,Theme 10,Macroeconomic Resilience
+Goal 1,End poverty in all its forms everywhere,Theme 76,Social Safety Nets
+Goal 2,"End hunger, achieve food security and improved nutrition and promote sustainable agriculture",Theme 49,Agriculture Finance
+Goal 2,"End hunger, achieve food security and improved nutrition and promote sustainable agriculture",Theme 115,Nutrition
+Goal 2,"End hunger, achieve food security and improved nutrition and promote sustainable agriculture",Theme 114,Nutrition and Food Security
+Goal 2,"End hunger, achieve food security and improved nutrition and promote sustainable agriculture",Theme 116,Food Security
+Goal 3,Ensure healthy lives and promote well-being for all at all ages,Theme 85,Disease Control
+Goal 3,Ensure healthy lives and promote well-being for all at all ages,Theme 86,HIV/AIDS
+Goal 3,Ensure healthy lives and promote well-being for all at all ages,Theme 87,Malaria
+Goal 3,Ensure healthy lives and promote well-being for all at all ages,Theme 88,Tuberculosis
+Goal 3,Ensure healthy lives and promote well-being for all at all ages,Theme 89,Neglected Tropical Diseases
+Goal 3,Ensure healthy lives and promote well-being for all at all ages,Theme 91,Health systems and Policies
+Goal 3,Ensure healthy lives and promote well-being for all at all ages,Theme 92,Health System Strengthening
+Goal 3,Ensure healthy lives and promote well-being for all at all ages,Theme 93,Health Service Delivery
+Goal 3,Ensure healthy lives and promote well-being for all at all ages,Theme 94,Health Finance
+Goal 3,Ensure healthy lives and promote well-being for all at all ages,Theme 96,Reproductive and Maternal Health
+Goal 3,Ensure healthy lives and promote well-being for all at all ages,Theme 97,Adolescent Health
+Goal 3,Ensure healthy lives and promote well-being for all at all ages,Theme 98,Child Health
+Goal 3,Ensure healthy lives and promote well-being for all at all ages,Theme 90,Non-communicable Diseases
+Goal 4,Ensure inclusive and equitable quality education and promote lifelong learning opportunities for all,Theme 104,Teachers
+Goal 4,Ensure inclusive and equitable quality education and promote lifelong learning opportunities for all,Theme 111,Skills Development
+Goal 4,Ensure inclusive and equitable quality education and promote lifelong learning opportunities for all,Theme 109,Private Sector Delivery of Education
+Goal 4,Ensure inclusive and equitable quality education and promote lifelong learning opportunities for all,Theme 105,Student Assessment
+Goal 4,Ensure inclusive and equitable quality education and promote lifelong learning opportunities for all,Theme 100,Education
+Goal 4,Ensure inclusive and equitable quality education and promote lifelong learning opportunities for all,Theme 107,"Standards, Curriculum and Textbooks"
+Goal 4,Ensure inclusive and equitable quality education and promote lifelong learning opportunities for all,Theme 101,Access to Education
+Goal 4,Ensure inclusive and equitable quality education and promote lifelong learning opportunities for all,Theme 102,Education Financing
+Goal 4,Ensure inclusive and equitable quality education and promote lifelong learning opportunities for all,Theme 108,Education Facilities
+Goal 5,Achieve gender equality and empower all women and girls,Theme 84,Gender
+Goal 6,Ensure availability and sustainable management of water and sanitation for all,Theme 144,Water Pollution
+Goal 6,Ensure availability and sustainable management of water and sanitation for all,Theme 128,Rural Water and Sanitation
+Goal 6,Ensure availability and sustainable management of water and sanitation for all,Theme 123,Urban Water and Sanitation
+Goal 6,Ensure availability and sustainable management of water and sanitation for all,Theme 153,Watershed Management
+Goal 7,"Ensure access to affordable, reliable, sustainable and modern energy for all",Theme 146,Renewable Natural Resources Asset Management
+Goal 7,"Ensure access to affordable, reliable, sustainable and modern energy for all",Theme 160,Access to Energy
+Goal 7,"Ensure access to affordable, reliable, sustainable and modern energy for all",Theme 157,Energy
+Goal 7,"Ensure access to affordable, reliable, sustainable and modern energy for all",Theme 158,Energy Efficiency
+Goal 8,"Promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all",Theme 110,Labor Market Policy and Programs
+Goal 8,"Promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all",Theme 112,Labor Market Institutions
+Goal 8,"Promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all",Theme 19,Trade Facilitation
+Goal 8,"Promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all",Theme 22,Business Enabling Environment
+Goal 8,"Promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all",Theme 24,Regulation and Competition Policy
+Goal 8,"Promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all",Theme 33,Global value chains
+Goal 8,"Promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all",Theme 29,Youth Employment
+Goal 8,"Promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all",Theme 113,Active Labor Market Programs
+Goal 8,"Promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all",Theme 20,Trade Logistics
+Goal 8,"Promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all",Theme 18,Trade
+Goal 8,"Promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all",Theme 27,Job Creation
+Goal 8,"Promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all",Theme 11,Economic Growth and Planning
+Goal 8,"Promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all",Theme 43,Credit Infrastructure
+Goal 8,"Promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all",Theme 31,Enterprise Development
+Goal 8,"Promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all",Theme 34,MSME Development
+Goal 8,"Promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all",Theme 46,Financial Inclusion
+Goal 8,"Promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all",Theme 42,Financial Infrastructure and Access
+Goal 8,"Promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all",Theme 44,Payment & Markets Infrastructure
+Goal 8,"Promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all",Theme 26,Jobs
+Goal 8,"Promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all",Theme 28,Job Quality
+Goal 8,"Promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all",Theme 15,Spatial Growth
+Goal 8,"Promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all",Theme 32,Entrepreneurship
+Goal 8,"Promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all",Theme 23,Investment and Business Climate
+Goal 8,"Promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all",Theme 58,Legal Institutions for a Market Economy
+Goal 9,"Build resilient infrastructure, promote inclusive and sustainable industrialization and foster innovation",Theme 66,State-owned Enterprise Reform and Privatization
+Goal 9,"Build resilient infrastructure, promote inclusive and sustainable industrialization and foster innovation",Theme 120,Public Transport
+Goal 9,"Build resilient infrastructure, promote inclusive and sustainable industrialization and foster innovation",Theme 25,Innovation and Technology Policy
+Goal 9,"Build resilient infrastructure, promote inclusive and sustainable industrialization and foster innovation",Theme 95,Private Sector Delivery in Health
+Goal 9,"Build resilient infrastructure, promote inclusive and sustainable industrialization and foster innovation",Theme 125,Rural Markets
+Goal 9,"Build resilient infrastructure, promote inclusive and sustainable industrialization and foster innovation",Theme 37,ICT Solutions
+Goal 9,"Build resilient infrastructure, promote inclusive and sustainable industrialization and foster innovation",Theme 45,MSME Finance
+Goal 9,"Build resilient infrastructure, promote inclusive and sustainable industrialization and foster innovation",Theme 124,Rural Development
+Goal 9,"Build resilient infrastructure, promote inclusive and sustainable industrialization and foster innovation",Theme 127,Rural Infrastructure and service delivery
+Goal 9,"Build resilient infrastructure, promote inclusive and sustainable industrialization and foster innovation",Theme 13,Structural Transformation and Economic Diversification
+Goal 9,"Build resilient infrastructure, promote inclusive and sustainable industrialization and foster innovation",Theme 36,ICT
+Goal 9,"Build resilient infrastructure, promote inclusive and sustainable industrialization and foster innovation",Theme 103,Science and Technology
+Goal 9,"Build resilient infrastructure, promote inclusive and sustainable industrialization and foster innovation",Theme 50,Infrastructure Finance
+Goal 10,Reduce inequality within and among countries,Theme 73,Other Excluded Groups
+Goal 10,Reduce inequality within and among countries,Theme 72,Indigenous People and Ethnic Minorities
+Goal 10,Reduce inequality within and among countries,Theme 79,Disability
+Goal 10,Reduce inequality within and among countries,Theme 132,Cultural Heritage
+Goal 10,Reduce inequality within and among countries,Theme 17,"Migration, Remittances and Diaspora Engagement"
+Goal 10,Reduce inequality within and among countries,Theme 71,Social Inclusion
+Goal 10,Reduce inequality within and among countries,Theme 119,Services and Housing for the Poor
+Goal 10,Reduce inequality within and among countries,Theme 12,Inclusive Growth
+Goal 11,"Make cities and human settlements inclusive, safe, resilient and sustainable",Theme 117,Urban Development
+Goal 11,"Make cities and human settlements inclusive, safe, resilient and sustainable",Theme 121,Urban Planning
+Goal 11,"Make cities and human settlements inclusive, safe, resilient and sustainable",Theme 118,Urban Infrastructure and Service Delivery
+Goal 11,"Make cities and human settlements inclusive, safe, resilient and sustainable",Theme 143,Air Quality Management
+Goal 11,"Make cities and human settlements inclusive, safe, resilient and sustainable",Theme 51,Housing Finance
+Goal 11,"Make cities and human settlements inclusive, safe, resilient and sustainable",Theme 133,Road Safety
+Goal 12,Ensure sustainable consumption and production patterns,Theme 159,Energy Policies & Reform
+Goal 12,Ensure sustainable consumption and production patterns,Theme 14,Green Growth
+Goal 12,Ensure sustainable consumption and production patterns,Theme 154,Environmental policies and institutions
+Goal 12,Ensure sustainable consumption and production patterns,Theme 142,Environmental Health and Pollution Management
+Goal 13,Take urgent action to combat climate change and its impacts,Theme 141,Adaptation
+Goal 13,Take urgent action to combat climate change and its impacts,Theme 150,Biodiversity
+Goal 13,Take urgent action to combat climate change and its impacts,Theme 139,Climate change
+Goal 13,Take urgent action to combat climate change and its impacts,Theme 140,Mitigation
+Goal 13,Take urgent action to combat climate change and its impacts,Theme 48,Disaster Risk Finance
+Goal 13,Take urgent action to combat climate change and its impacts,Theme 135,Disaster Response and Recovery
+Goal 13,Take urgent action to combat climate change and its impacts,Theme 134,Disaster Risk Management
+Goal 13,Take urgent action to combat climate change and its impacts,Theme 136,Disaster Risk Reduction
+Goal 13,Take urgent action to combat climate change and its impacts,Theme 137,Disaster Preparedness
+Goal 14,"Conserve and sustainably use the oceans, seas and marine resources for sustainable development",Theme 149,Oceans
+Goal 14,"Conserve and sustainably use the oceans, seas and marine resources for sustainable development",Theme 155,Water Resource Management
+Goal 14,"Conserve and sustainably use the oceans, seas and marine resources for sustainable development",Theme 148,Fisheries Policies and institutions
+Goal 15,"Protect, restore and promote sustainable use of terrestrial ecosystems, sustainably manage forests, combat desertification, and halt and reverse land degradation and halt biodiversity loss",Theme 145,Soil Pollution
+Goal 15,"Protect, restore and promote sustainable use of terrestrial ecosystems, sustainably manage forests, combat desertification, and halt and reverse land degradation and halt biodiversity loss",Theme 151,Landscape Management
+Goal 15,"Protect, restore and promote sustainable use of terrestrial ecosystems, sustainably manage forests, combat desertification, and halt and reverse land degradation and halt biodiversity loss",Theme 152,Coastal Zone Management
+Goal 16,"Promote peaceful and inclusive societies for sustainable development, provide access to justice for all and build effective, accountable and inclusive institutions at all levels",Theme 57,Judicial and other Dispute Resolution Mechanisms
+Goal 16,"Promote peaceful and inclusive societies for sustainable development, provide access to justice for all and build effective, accountable and inclusive institutions at all levels",Theme 41,Financial Sector Integrity
+Goal 16,"Promote peaceful and inclusive societies for sustainable development, provide access to justice for all and build effective, accountable and inclusive institutions at all levels",Theme 61,Administrative and Civil Service Reform
+Goal 16,"Promote peaceful and inclusive societies for sustainable development, provide access to justice for all and build effective, accountable and inclusive institutions at all levels",Theme 156,"Water Institutions, Policies and Reform"
+Goal 16,"Promote peaceful and inclusive societies for sustainable development, provide access to justice for all and build effective, accountable and inclusive institutions at all levels",Theme 106,"Education Governance, School-Based Management"
+Goal 16,"Promote peaceful and inclusive societies for sustainable development, provide access to justice for all and build effective, accountable and inclusive institutions at all levels",Theme 64,Civil Registration and Identification
+Goal 16,"Promote peaceful and inclusive societies for sustainable development, provide access to justice for all and build effective, accountable and inclusive institutions at all levels",Theme 122,Municipal Finance
+Goal 16,"Promote peaceful and inclusive societies for sustainable development, provide access to justice for all and build effective, accountable and inclusive institutions at all levels",Theme 138,Flood and Drought Risk Management
+Goal 16,"Promote peaceful and inclusive societies for sustainable development, provide access to justice for all and build effective, accountable and inclusive institutions at all levels",Theme 147,Forests Policies and institutions
+Goal 16,"Promote peaceful and inclusive societies for sustainable development, provide access to justice for all and build effective, accountable and inclusive institutions at all levels",Theme 60,Public Administration
+Goal 16,"Promote peaceful and inclusive societies for sustainable development, provide access to justice for all and build effective, accountable and inclusive institutions at all levels",Theme 52,Public Finance Management
+Goal 16,"Promote peaceful and inclusive societies for sustainable development, provide access to justice for all and build effective, accountable and inclusive institutions at all levels",Theme 63,"E-Government, incl. E-services"
+Goal 16,"Promote peaceful and inclusive societies for sustainable development, provide access to justice for all and build effective, accountable and inclusive institutions at all levels",Theme 65,Public Assets and Investment Management
+Goal 16,"Promote peaceful and inclusive societies for sustainable development, provide access to justice for all and build effective, accountable and inclusive institutions at all levels",Theme 74,Participation and Civic Engagement
+Goal 16,"Promote peaceful and inclusive societies for sustainable development, provide access to justice for all and build effective, accountable and inclusive institutions at all levels",Theme 80,"Fragility, Conflict and Violence"
+Goal 16,"Promote peaceful and inclusive societies for sustainable development, provide access to justice for all and build effective, accountable and inclusive institutions at all levels",Theme 81,Conflict Prevention
+Goal 16,"Promote peaceful and inclusive societies for sustainable development, provide access to justice for all and build effective, accountable and inclusive institutions at all levels",Theme 83,Forced Displacement
+Goal 16,"Promote peaceful and inclusive societies for sustainable development, provide access to justice for all and build effective, accountable and inclusive institutions at all levels",Theme 59,Personal and Property Rights
+Goal 16,"Promote peaceful and inclusive societies for sustainable development, provide access to justice for all and build effective, accountable and inclusive institutions at all levels",Theme 62,"Transparency, Accountability and Good Governance"
+Goal 16,"Promote peaceful and inclusive societies for sustainable development, provide access to justice for all and build effective, accountable and inclusive institutions at all levels",Theme 82,Post-conflict Reconstruction
+Goal 16,"Promote peaceful and inclusive societies for sustainable development, provide access to justice for all and build effective, accountable and inclusive institutions at all levels",Theme 53,Public Expenditure Management
+Goal 16,"Promote peaceful and inclusive societies for sustainable development, provide access to justice for all and build effective, accountable and inclusive institutions at all levels",Theme 56,Rule of Law
+Goal 16,"Promote peaceful and inclusive societies for sustainable development, provide access to justice for all and build effective, accountable and inclusive institutions at all levels",Theme 67,Municipal Institution Building
+Goal 17,Strengthen the means of implementation and revitalize the Global Partnership for Sustainable Development,Theme 21,Trade Policy
+Goal 17,Strengthen the means of implementation and revitalize the Global Partnership for Sustainable Development,Theme 55,Debt Management
+Goal 17,Strengthen the means of implementation and revitalize the Global Partnership for Sustainable Development,Theme 2,Fiscal Sustainability
+Goal 17,Strengthen the means of implementation and revitalize the Global Partnership for Sustainable Development,Theme 47,Finance for Development
+Goal 17,Strengthen the means of implementation and revitalize the Global Partnership for Sustainable Development,Theme 5,Tax Policy
+Goal 17,Strengthen the means of implementation and revitalize the Global Partnership for Sustainable Development,Theme 4,Debt Policy
+Goal 17,Strengthen the means of implementation and revitalize the Global Partnership for Sustainable Development,Theme 54,Domestic Revenue Administration
+Goal 17,Strengthen the means of implementation and revitalize the Global Partnership for Sustainable Development,Theme 6,Subnational Fiscal Policies
+Goal 17,Strengthen the means of implementation and revitalize the Global Partnership for Sustainable Development,Theme 7,Macro-financial policies
+Goal 17,Strengthen the means of implementation and revitalize the Global Partnership for Sustainable Development,Theme 77,Social Insurance and Pensions
+Goal 17,Strengthen the means of implementation and revitalize the Global Partnership for Sustainable Development,Theme 1,Fiscal Policy
+Goal 17,Strengthen the means of implementation and revitalize the Global Partnership for Sustainable Development,Theme 3,Public Expenditure Policy
+Goal 17,Strengthen the means of implementation and revitalize the Global Partnership for Sustainable Development,Theme 38,ICT Policies
+Goal 17,Strengthen the means of implementation and revitalize the Global Partnership for Sustainable Development,Theme 8,External Finance
+Goal 17,Strengthen the means of implementation and revitalize the Global Partnership for Sustainable Development,Theme 99,Demographics and Aging
+Goal 17,Strengthen the means of implementation and revitalize the Global Partnership for Sustainable Development,Theme 30,Public Private Partnerships
+Goal 17,Strengthen the means of implementation and revitalize the Global Partnership for Sustainable Development,Theme 9,Monetary and Credit Policies
+Goal 17,Strengthen the means of implementation and revitalize the Global Partnership for Sustainable Development,Theme 35,Regional Integration
+Goal 17,Strengthen the means of implementation and revitalize the Global Partnership for Sustainable Development,Theme 68,Data Development and Capacity Building
+Goal 17,Strengthen the means of implementation and revitalize the Global Partnership for Sustainable Development,Theme 16,Macroeconomic & Structural Policy Modelling
+Goal 17,Strengthen the means of implementation and revitalize the Global Partnership for Sustainable Development,Theme 130,Geospatial Services
+Goal 17,Strengthen the means of implementation and revitalize the Global Partnership for Sustainable Development,Theme 69,"Data Production, Accessibility and Use"
+Goal 17,Strengthen the means of implementation and revitalize the Global Partnership for Sustainable Development,Theme 39,Financial Stability
+Goal 17,Strengthen the means of implementation and revitalize the Global Partnership for Sustainable Development,Theme 40,Financial Sector Oversight and Policy/Banking Regulation & Restructuring
+Goal 17,Strengthen the means of implementation and revitalize the Global Partnership for Sustainable Development,Theme 70,Institutional Strengthening and Capacity Building

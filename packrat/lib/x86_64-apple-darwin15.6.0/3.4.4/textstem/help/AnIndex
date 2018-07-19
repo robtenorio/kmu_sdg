@@ -1,0 +1,10 @@
+textstem-package	textstem
+lemmatize_strings	lemmatize_strings
+lemmatize_words	lemmatize_words
+make_lemma_dictionary	make_lemma_dictionary
+package-textstem	textstem
+presidential_debates_2012	presidential_debates_2012
+sam_i_am	sam_i_am
+stem_strings	stem_strings
+stem_words	stem_words
+textstem	textstem

@@ -1,0 +1,18 @@
+AssociatedPress         Associated Press data
+CTM                     Correlated Topic Model
+LDA                     Latent Dirichlet Allocation
+TopicModel-class        Virtual class "TopicModel"
+TopicModelcontrol-class
+                        Different classes for controlling the
+                        estimation of topic models
+build_graph             Construct the adjacency matrix for a topic
+                        graph
+distHellinger           Compute Hellinger distance
+ldaformat2dtm           Transform data from and for use with the 'lda'
+                        package
+logLik,TopicModel-method
+                        Methods for Function logLik
+perplexity              Methods for Function perplexity
+posterior,TopicModel,missing-method
+                        Determine posterior probabilities
+topics                  Extract most likely terms or topics.

@@ -1,0 +1,12 @@
+Ops.english             Arithmetic operations with objects of class
+                        english
+as.character.english    Integers into English
+as.english              Generic functions and methods for S3 class
+                        english
+as.numeric.english      Convert an english object back to class numeric
+english-package         English
+ordinal                 Generic functions and methods generating
+                        english versions of ordinal whole numbers as
+                        character strings
+print.english           A print method for objects of cleas english
+sort.english            A sorting method for objects of class english
